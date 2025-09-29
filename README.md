@@ -33,7 +33,7 @@ This app allows you to manage your daily tasks efficiently with features like ad
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/arabeen100/To-Do-App
    cd todo-app
    npm install
 
@@ -52,7 +52,7 @@ npm run build
 - 🌍 Deployment
 
 This project is deployed and accessible online.
-✨ You can explore the live website here: Live Demo
+✨ You can explore the live website here: [https://to-do-app-sigma-three-48.vercel.app/](https://to-do-app-sigma-three-48.vercel.app/)
 
 ## 📂 Folder Structure
 
